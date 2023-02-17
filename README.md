@@ -4,8 +4,10 @@ This tool extracts websites from the bing search engine
 using a list of words contained in the words.txt.
 
 <br>
+<p align="center"> 
 <img src="https://1000logos.net/wp-content/uploads/2021/11/Bing-logo.png" width="300" 
 alt="accessibility text">
+</p>
 
 ## Installation
 
