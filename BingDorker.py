@@ -1,7 +1,6 @@
 #!/usr/bin/python 
 
 import re
-import sys
 import requests
 import time
 
