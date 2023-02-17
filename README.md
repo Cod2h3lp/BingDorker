@@ -4,13 +4,13 @@ This tool extracts websites from the bing search engine
 using a list of words contained in the words.txt.
 
 <br>
-<img src="https://1000logos.net/wp-content/uploads/2021/11/Bing-logo.png" width="1000" 
+<img src="https://1000logos.net/wp-content/uploads/2021/11/Bing-logo.png" width="500" 
 alt="accessibility text">
 
 ## Installation
 
 ```bash
-git clone https://github.com/cod2h3lp/BingBleed.git
+git clone https://github.com/cod2h3lp/BingDorker.git
 cd BingDorker
 python BingDorker.py
 ```
