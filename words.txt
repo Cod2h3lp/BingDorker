@@ -1,0 +1,15 @@
+ano
+dia
+vez
+coisa
+tempo
+homem
+casa
+vida
+pessoa
+forma
+parte
+estado
+governo
+caso
+trabalho
